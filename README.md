@@ -1,2 +1,1 @@
 Devin Daniels
-my_favorite_number
