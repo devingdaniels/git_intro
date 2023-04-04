@@ -1,1 +1,4 @@
 Devin Daniels
+danielde@oregonstate.edu
+my_favorite_color
+my_favorite_band
